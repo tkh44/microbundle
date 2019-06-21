@@ -64,7 +64,7 @@
     "lodash.merge": "^4.6.1",
     "module-details-from-path": "^1.0.3",
     "pretty-bytes": "^5.2.0",
-    "rollup": "^1.15.1",
+    "rollup": "^1.16.1",
     "rollup-plugin-alias": "^1.5.2",
     "rollup-plugin-babel": "^4.3.2",
     "rollup-plugin-bundle-size": "^1.0.1",
